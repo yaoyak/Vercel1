@@ -1,0 +1,7 @@
+aiohttp
+pycryptodome
+ujson
+requests
+colorlog
+pygments
+xmltodict
